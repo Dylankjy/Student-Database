@@ -1,0 +1,3 @@
+fname, lname, address, postal code, age, gender, email id, mobile no, grade, hobby.
+Create a database and save a table.
+>> form.
